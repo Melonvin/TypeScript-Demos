@@ -24,3 +24,6 @@ let big: bigint = 9007199254740991n;
 
 // symbol
 let symbol1: symbol = Symbol("key");
+
+// object
+let obj: object = {};

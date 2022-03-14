@@ -19,3 +19,5 @@ var isTrue = false;
 var big = 9007199254740991n;
 // symbol
 var symbol1 = Symbol("key");
+// object
+var obj = {};
